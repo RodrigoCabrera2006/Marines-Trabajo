@@ -1,0 +1,34 @@
+{"Personas": "mi familia",
+
+"Lista":[{
+"Nombre":"Julio",
+"númerof":"34",
+"Trabajo":true,
+"Nacimiento": "1995-05-21"
+},
+{
+  "Nombre":"Tiago",
+  "númerof":"12",
+  "Trabajo": false,
+  "Nacimiento":"1992-04-24"
+},
+{
+  "Nombre":"Lucas",
+  "númerof": "11",
+  "Trabajo": false,
+  "Nacimiento": "1990-4-03"
+},
+{
+  "Nombre": "Papu",
+  "númerof": "9",
+  "Trabajo": true,
+  "Nacimiento": "1987-6-06"
+},
+{
+  "Nombre": "Jesus",
+  "númerof": "777",
+  "Trabajo": false,
+  "Nacimiento": "2006-6-05"
+}
+
+]}
