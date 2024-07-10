@@ -1,34 +1,36 @@
-{"Personas": "mi familia",
-
-"Lista":[{
-"Nombre":"Julio",
-"númerof":"34",
-"Trabajo":true,
-"Nacimiento": "1995-05-21"
-},
 {
-  "Nombre":"Tiago",
-  "númerof":"12",
-  "Trabajo": false,
-  "Nacimiento":"1992-04-24"
-},
-{
-  "Nombre":"Lucas",
-  "númerof": "11",
-  "Trabajo": false,
-  "Nacimiento": "1990-4-03"
-},
-{
-  "Nombre": "Papu",
-  "númerof": "9",
-  "Trabajo": true,
-  "Nacimiento": "1987-6-06"
-},
-{
-  "Nombre": "Jesus",
-  "númerof": "777",
-  "Trabajo": false,
-  "Nacimiento": "2006-6-05"
+    "Personas":"Mi Familia",
+    "Lista":
+    [
+    {
+        "Nombre":"Rodrigo",
+        "numerof":"7",
+        "Trabajo":false,
+        "nacimiento":"11-06-2006"
+    },
+    {
+        "Nombre":"Marcelo",
+        "numerof":"4",
+        "Trabajo":true,
+        "nacimiento":"7-09-1970"
+    },
+    {
+        "Nombre":"Marcela",
+        "numerof":"3",
+        "Trabajo":false,
+        "nacimiento":"15-02-1968"
+    },
+    {
+        "Nombre":"Matias",
+        "numerof":"2",
+        "Trabajo":false,
+        "nacimiento":"11-01-1999"
+    },
+    {
+        "Nombre":"Barbara",
+        "numerof":"4",
+        "Trabajo":false,
+        "nacimiento":"23-10-1992"
+    }
+]
 }
-
-]}
